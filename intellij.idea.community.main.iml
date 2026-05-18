@@ -35,10 +35,12 @@
     <orderEntry type="module" module-name="intellij.vcs.git.frontend" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.platform.images" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.vcs.github" scope="RUNTIME" />
+    <orderEntry type="module" module-name="intellij.platform.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.terminal" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.terminal.frontend" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.terminal.backend" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.platform.images.build" scope="TEST" />
+    <orderEntry type="module" module-name="intellij.platform.workspace.storage.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.terminal.sh" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.textmate.plugin" scope="TEST" />
     <orderEntry type="module" module-name="intellij.textmate.backend" scope="TEST" />
@@ -48,10 +50,13 @@
     <orderEntry type="module" module-name="intellij.keymap.visualStudio" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.keymap.netbeans" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.smart.update" scope="RUNTIME" />
+    <orderEntry type="module" module-name="intellij.platform.runtime.repository.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.execution.process.elevation" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.vcs.gitlab" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.vcs.github.tracker" scope="RUNTIME" />
     <orderEntry type="module" module-name="intellij.vcs.git.commit.modal" scope="RUNTIME" />
+    <orderEntry type="module" module-name="intellij.textmate.tests" scope="TEST" />
+    <orderEntry type="module" module-name="intellij.terminal.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.vcs.git.terminal" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.instanceContainer.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.agent.workbench.chat" scope="TEST" />
